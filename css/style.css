@@ -532,7 +532,7 @@ a {
 }
 .close-btn:hover .icon-btn,
 .close-btn:focus .icon-btn {
-  fill: #ffffff;
+  fill: #fff;
 }
 .info {
   display: flex;
